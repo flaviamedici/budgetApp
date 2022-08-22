@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: var(--secondaryColor);
+    background: url(img/IMG_4927.JPG);
 }
 
 .wrapper {
