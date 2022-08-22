@@ -1,10 +1,10 @@
 :root {
-    --mainColor: #1e90ff;
+    --mainColor: #003b46;
     --white: #fff;
-    --secondaryColor: #f0f8ff;
-    --darkBlue: #414a67;
+    --secondaryColor: #c4dfe6;
+    --darkBlue: #07575b;
     --lightGray: #bbbaba;
-    --shadowColor: #a3a3a6;
+    --shadowColor: #66a5ad;
 }
 * {
     padding: 0;
